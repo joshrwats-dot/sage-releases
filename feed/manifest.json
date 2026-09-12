@@ -1,7 +1,7 @@
 {
   "short_version" : "0.1.0",
   "build_version" : "0.1.0",
-  "commit" : "dd070c9d82fa",
-  "archive_url" : "https://github.com/joshrwats-dot/sage-releases/releases/download/build-dd070c9d82fa/SAGE-0.1.0-dd070c9d82fa.zip",
-  "archive_sha256" : "e6d8e00d5fab8b71403d740d87346f74d1dea8c66a7964c9c134e33208ce1b2a"
+  "commit" : "929c2016088f",
+  "archive_url" : "https://github.com/joshrwats-dot/sage-releases/releases/download/build-929c2016088f/SAGE-0.1.0-929c2016088f.zip",
+  "archive_sha256" : "d9a5df10fc92b120083f31402ed3ee684d11ec942f50b4151e4a0224f8d00f63"
 }
